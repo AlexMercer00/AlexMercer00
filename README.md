@@ -4,6 +4,7 @@ About Me
 I am a passionate blockchain developer with a focus on Ethereum and decentralized applications. My expertise lies in Solidity, Hardhat, Node.js, ethers.js, web3.js, and the Ethereum ecosystem. I thrive on building secure and efficient smart contracts that power decentralized applications.
 
 Skills
+
 Solidity: Crafting robust and secure smart contracts.
 
 Hardhat: Efficient development and testing for Ethereum projects.
